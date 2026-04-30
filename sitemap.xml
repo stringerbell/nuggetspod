@@ -11,6 +11,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://nuggetspod.com/episode/b03e6432-1db5-48f0-8399-d8c7b66f9e89/</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://nuggetspod.com/episode/f2a5922b-6163-43d5-856c-a2c1139ccb02/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://nuggetspod.com/episode/5a9e6ba8-bd30-446c-9229-923d0273385d/</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
